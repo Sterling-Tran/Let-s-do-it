@@ -20,11 +20,11 @@ Goals là một ứng dụng web được xây dựng bằng Django giúp ngư�
 1. **Clone repository**
 
    ```bash
-   git clone https://github.com/yourusername/hieu-tv-blog.git
+   git clone https://github.com/yourusername/Let-s-do-it.git
    
 2. **Chuyển đến thư mục dự án**
     ```bash
-    cd hieu-tv-blog
+    cd letdoit
 3. **Tạo và kích hoạt môi trường ảo**
     ```bash
     python -m venv venv
